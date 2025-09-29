@@ -1,4 +1,5 @@
-## Hi there 👋
+# 안녕하세요 영남대 김문주입니다
+## 현재 정보통신공학과 2학년 재학중입니다.
 
 <!--
 **KMJ133/KMJ133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
